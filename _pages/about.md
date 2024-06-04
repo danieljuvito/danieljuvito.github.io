@@ -3,6 +3,12 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+As a seasoned backend engineer, I bring 6 years of hands-on experience in designing, developing, and optimizing robust systems. Here’s a snapshot of my journey:
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+- <b>Technical Proficiency</b>: I’ve mastered various programming languages (such as Golang, Kotlin, JavaScript, Python, and C#) and frameworks (like Express, Django, and Spring).
+- <b>Database Wizardry</b>: My expertise extends to MySQL, PostgreSQL, MongoDB, and Entity Framework. Data modeling, migrations, and optimization are my forte.
+- <b>Cloud and Microservices</b>: I thrive in building scalable solutions using AWS EC2, RDS, and Docker.
+- <b>Agile Champion</b>: I embrace agile methodologies, fostering collaboration and adaptability.
+- <b>Problem-Solving Dynamo</b>: I design, develop, and maintain efficient solutions, solving complex backend puzzles.
+
+Let’s connect my skills to your organization’s mission and goals. Ready to elevate your backend infrastructure? 🚀
